@@ -56,7 +56,7 @@
 
 ## 🎯 Sobre o projeto
 
-A **Presystem** é um modelo de site institucional para empresa de tecnologia e eletrônica, desenvolvido do zero com foco em transmitir credibilidade, modernidade e expertise técnica.
+O projeto é um modelo de site institucional para empresa de tecnologia e eletrônica, desenvolvido do zero com foco em transmitir credibilidade, modernidade e expertise técnica.
 
 O projeto demonstra na prática como é possível construir uma experiência de **Single Page Application (SPA)** utilizando apenas **HTML, CSS e JavaScript puro**, sem depender de nenhum framework.
 
